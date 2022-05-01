@@ -1,1 +1,2 @@
 Working with GIT
+Fixing the bags in file.txt in new branch
